@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Secondopianostudio/.github/main/assets/banner.png?v=2" alt="Secondo Piano Studio" width="100%">
+<img src="https://raw.githubusercontent.com/Secondopianostudio/.github/main/assets/banner.png?v=3" alt="Secondo Piano Studio" width="100%">
 
 # 🎹 SECOND PIANO STUDIO
 
