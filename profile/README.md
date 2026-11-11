@@ -5,7 +5,7 @@
 # 🎹 SECOND PIANO STUDIO
 
 **A small independent studio crafting retro arcade space shooters.**
-Pick your name, grab the cursor-ship, and blast everything that moves.
+*Secondo Piano* — "second floor" — the floor above, where the arcade lives.
 
 [![Play on itch.io](https://img.shields.io/badge/Play_on_itch.io-secondopianostudio-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://secondopianostudio.itch.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Secondopianostudio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Secondopianostudio)
@@ -71,6 +71,6 @@ addictive, and perfect for a quick session.</sub>
 
 **🎮 Play free in the browser:** [Cursor Shooter II](https://secondopianostudio.itch.io/cursor-shooterii) · [Cursor Shooter](https://secondopianostudio.itch.io/cursor-shooter)
 
-*( — piano keys at the bottom of space, since 2025 — )*
+*( — arcade from the second floor, since 2025 — )*
 
 </div>
