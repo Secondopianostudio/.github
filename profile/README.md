@@ -4,7 +4,7 @@
 
 # SECONDOPIANO STUDIO
 
-**A small independent studio crafting retro arcade space shooters.**
+**Independent studio crafting retro arcade space shooters.**
 *Secondo Piano* — "second floor" — the floor above, where the arcade lives.
 
 [![Play on itch.io](https://img.shields.io/badge/Play_on_itch.io-secondopianostudio-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://secondopianostudio.itch.io/)
