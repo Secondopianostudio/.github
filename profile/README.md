@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Secondopianostudio/.github/main/assets/banner.png?v=3" alt="Secondo Piano Studio" width="100%">
 
-# 🎹 SECOND PIANO STUDIO
+# 🎹 SECONDOPIANOSTUDIO
 
 **A small independent studio crafting retro arcade space shooters.**
 *Secondo Piano* — "second floor" — the floor above, where the arcade lives.
