@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Secondopianostudio/.github/main/assets/banner.png?v=3" alt="Secondo Piano Studio" width="100%">
 
- SECONDOPIANOSTUDIO
+ ##SECONDOPIANOSTUDIO
 
 **A small independent studio crafting retro arcade space shooters.**
 *Secondo Piano* — "second floor" — the floor above, where the arcade lives.
@@ -15,14 +15,14 @@
 
 ---
 
- Our Games
+##Our Games
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
- 🕹 Cursor Shooter II
+ ##🕹 Cursor Shooter II
 
 <sub>**A fast-paced 16-bit inspired vertical shoot 'em up.** Pilot your fighter
 through five dangerous space sectors full of enemy formations, bullet-hell
@@ -32,14 +32,14 @@ the **Omega Cursor**.</sub>
 [![Cursor Shooter II](https://img.itch.zone/aW1hZ2UvNDkzODMyNi8yOTg4NTM1NS5wbmc=/original/NznCYq.png)](https://secondopianostudio.itch.io/cursor-shooterii)
 [![Cursor Shooter II](https://img.itch.zone/aW1hZ2UvNDkzODMyNi8yOTg4NTM1MS5wbmc=/original/eJomaC.png)](https://secondopianostudio.itch.io/cursor-shooterii)
 
-[ ▶ Play in browser ](https://secondopianostudio.itch.io/cursor-shooterii) · [ 🌐 Game page ](https://secondopianostudio.itch.io/cursor-shooterii) · [ ❤ Support ](https://secondopianostudio.itch.io/cursor-shooterii/donate)**
+##[ ▶ Play in browser ](https://secondopianostudio.itch.io/cursor-shooterii) · [ 🌐 Game page ](https://secondopianostudio.itch.io/cursor-shooterii) · [ ❤ Support ](https://secondopianostudio.itch.io/cursor-shooterii/donate)**
 
 `vertical shmup` `boss fights` `power-ups` `high scores`
 
 </td>
 <td width="50%" valign="top">
 
- 🕹 Cursor Shooter
+##🕹 Cursor Shooter
 
 <sub>**Old-school arcade action with retro pixel vibes.** You fly around, shoot
 asteroids, try not to die, and rack up the highest score you can. Simple, a bit
