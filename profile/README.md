@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Secondopianostudio/.github/main/assets/banner-brand.png" alt="Secondo Piano Studio" width="100%">
 
-# 🎹 SECOND PIANO STUDIO
+# SECONDOPIANO STUDIO
 
 **A small independent studio crafting retro arcade space shooters.**
 *Secondo Piano* — "second floor" — the floor above, where the arcade lives.
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Our Games
+## Our Games
 
 <div align="center">
 <table>
@@ -59,7 +59,7 @@ addictive, and perfect for a quick session.</sub>
 
 ---
 
-## 🎯 What we're about
+## What we're about
 
 - **Retro first** — pixel-art visuals and arcade-style sound effects
 - **Instant play** — every game runs directly in your browser, free to play
@@ -69,7 +69,7 @@ addictive, and perfect for a quick session.</sub>
 
 <div align="center">
 
-**🎮 Play free in the browser:** [Cursor Shooter II](https://secondopianostudio.itch.io/cursor-shooterii) · [Cursor Shooter](https://secondopianostudio.itch.io/cursor-shooter)
+** Play free in the browser:** [Cursor Shooter II](https://secondopianostudio.itch.io/cursor-shooterii) · [Cursor Shooter](https://secondopianostudio.itch.io/cursor-shooter)
 
 *( — arcade from the second floor, since 2025 — )*
 
